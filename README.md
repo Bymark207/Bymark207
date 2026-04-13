@@ -103,7 +103,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://www.linkedin.com/in/biryaho-blessed-1a02671a4
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@Blessed.exe256
 [instagram]: https://www.linkedin.com/in/biryaho-blessed-1a02671a4
 [linkedin]: https://www.linkedin.com/in/biryaho-blessed-1a02671a4
 
