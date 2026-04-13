@@ -19,6 +19,11 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Certifications:</h2>
+- [CompTIA Security Plus](https://www.credly.com/badges/b829fb32-e21d-458c-a086-df16cdb74c30/public_url)
+- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/e09a7cdb-37d2-4a1a-b15d-97ff900387a2/public_url)
+- [CCNA: Enterprise Networking, Security and Automation](https://www.credly.com/badges/e073af52-a788-4def-9d04-0f6cb7af384f/linked_in_profile)
+- [CCNA: Switching, Routing and Wireless Essentials](https://www.credly.com/badges/1b8a26b4-71cd-4f28-b9bc-8d832978dd9e/linked_in_profile)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
