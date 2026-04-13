@@ -20,7 +20,7 @@
 
 ## 🏅 Certifications
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FFD700?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_LINK_HERE)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FFD700?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/b829fb32-e21d-458c-a086-df16cdb74c30/public_url)
 [![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2%20CC-008000?style=for-the-badge&logo=isc2&logoColor=white)](YOUR_LINK_HERE)
 
 ### Cisco Networking Academy
