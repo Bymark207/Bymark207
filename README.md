@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/cilium/0073B7" width="40" height="40" alt="Cilium Logo" />
+      <img src="https://cdn.simpleicons.org/coursera/0056D2" width="40" height="40" alt="Coursera Logo" />
     </td>
     <td>
       <a href="https://drive.google.com/file/d/1s0Nv7JsT3BJ_bB170LvWLYfsiysAr4Nt/view"><b>INFORMATION SYSTEMS AUDITING, CONTROLS AND ASSURANCE (ISACA)</b></a>
