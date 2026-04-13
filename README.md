@@ -62,9 +62,11 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="[URL]"><b>Information Systems Auditing, Controls and Assurance (ISACA)</b></a>
+    <td align="center" width="70">
+      <img src="https://cdn.simpleicons.org/cisco/005A9C" width="40" alt="Cisco"/>
     </td>
+    <td>
+      <a href="[URL]"><b>CCNA: Introduction to Networks</b></a>
     </td>
   </tr>
   <tr>
