@@ -66,7 +66,7 @@
       <img src="https://cdn.simpleicons.org/cilium/0073B7" width="40" height="40" alt="Cilium Logo" />
     </td>
     <td>
-      <a href="[URL]"><b>CCNA: Introduction to Networks</b></a>
+      <a href="https://drive.google.com/file/d/1s0Nv7JsT3BJ_bB170LvWLYfsiysAr4Nt/view"><b>INFORMATION SYSTEMS AUDITING, CONTROLS AND ASSURANCE (ISACA)</b></a>
     </td>
   </tr>
   <tr>
