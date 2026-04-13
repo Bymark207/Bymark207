@@ -71,18 +71,18 @@
   </tr>
   <tr>
     <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/comptia/orange" width="40" alt="CompTIA"/>
+      <img src="https://cdn.simpleicons.org/comptia" width="60" height="60" alt="CompTIA Logo" />
     </td>
     <td>
-      <a href="[URL]"><b>Prepare for the CompTIA Network+ (N10-007) Exam</b></a>
+      <a href="https://drive.google.com/file/d/1MdPVA3RNWUg1mWz20eHuh458QsdYBlBL/view"><b>Prepare for the CompTIA Network+ (N10-007) Exam</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="70">
-      <img src="https://img.icons8.com/ios-filled/50/000000/shield-security.png" width="40" alt="Security"/>
+      <img src="https://cdn.simpleicons.org/unitednations/009EDB" width="40" height="40" alt="United Nations Logo" />
     </td>
     <td>
-      <a href="[URL]"><b>Certificate of Completion - Digital Brand Protection</b></a>
+      <a href="https://drive.google.com/file/d/1UDadZUYDh0xfYOhpOeO-5Z84R2T6BQmx/view"><b>Certificate of Completion - UNICEF Digital Brand Protection</b></a>
     </td>
   </tr>
 </table>
