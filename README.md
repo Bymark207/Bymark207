@@ -34,7 +34,7 @@
       <img src="https://cdn.simpleicons.org/isc2/008000" width="40" alt="ISC2"/>
     </td>
     <td>
-      <a href="[URL]"><b>ISC2 Certified in Cybersecurity (CC)</b></a>
+      <a href="https://www.credly.com/badges/e09a7cdb-37d2-4a1a-b15d-97ff900387a2/public_url"><b>ISC2 Certified in Cybersecurity (CC)</b></a>
     </td>
   </tr>
   <tr>
