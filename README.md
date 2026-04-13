@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/comptia" width="60" height="60" alt="CompTIA Logo" />
+      <img src="https://cdn.simpleicons.org/comptia" width="80" height="80" alt="CompTIA Logo" />
     </td>
     <td>
       <a href="https://www.credly.com/badges/b829fb32-e21d-458c-a086-df16cdb74c30/public_url"><b>CompTIA Security+ (SY0-701)</b></a>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/comptia" width="60" height="60" alt="CompTIA Logo" />
+      <img src="https://cdn.simpleicons.org/comptia" width="80" height="80" alt="CompTIA Logo" />
     </td>
     <td>
       <a href="https://drive.google.com/file/d/1MdPVA3RNWUg1mWz20eHuh458QsdYBlBL/view"><b>Prepare for the CompTIA Network+ (N10-007) Exam</b></a>
