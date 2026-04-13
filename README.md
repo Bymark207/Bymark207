@@ -23,10 +23,10 @@
 <table>
   <tr>
     <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/comptia/FFD700" width="40" alt="CompTIA"/>
+      <img src="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification" width="40" alt="CompTIA"/>
     </td>
     <td>
-      <a href="[URL]"><b>CompTIA Security+ (SY0-701)</b></a>
+      <a href="[https://www.credly.com/badges/b829fb32-e21d-458c-a086-df16cdb74c30/public_url]"><b>CompTIA Security+ (SY0-701)</b></a>
     </td>
   </tr>
   <tr>
