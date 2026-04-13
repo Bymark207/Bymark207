@@ -42,7 +42,7 @@
       <img src="https://cdn.simpleicons.org/cisco/005A9C" width="40" alt="Cisco"/>
     </td>
     <td>
-      <a href="[URL]"><b>CCNA: Enterprise Networking, Security, and Automation</b></a>
+      <a href="https://www.credly.com/badges/e073af52-a788-4def-9d04-0f6cb7af384f/linked_in_profile"><b>CCNA: Enterprise Networking, Security, and Automation</b></a>
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@
       <img src="https://cdn.simpleicons.org/cisco/005A9C" width="40" alt="Cisco"/>
     </td>
     <td>
-      <a href="[URL]"><b>CCNA: Switching, Routing, and Wireless Essentials</b></a>
+      <a href="https://www.credly.com/badges/1b8a26b4-71cd-4f28-b9bc-8d832978dd9e/linked_in_profile"><b>CCNA: Switching, Routing and Wireless Essentials</b></a>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@
       <img src="https://cdn.simpleicons.org/cisco/005A9C" width="40" alt="Cisco"/>
     </td>
     <td>
-      <a href="[URL]"><b>CCNA: Introduction to Networks</b></a>
+      <a href="https://www.credly.com/badges/92be48ab-1c61-46dd-b65f-4e4e0ba0e87a/linked_in_profile"><b>CCNA: Introduction to Networks</b></a>
     </td>
   </tr>
   <tr>
