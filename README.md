@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/comptia" width="40" height="40" alt="CompTIA Logo" />
+      <img src="https://cdn.simpleicons.org/comptia" width="60" height="60" alt="CompTIA Logo" />
     </td>
     <td>
       <a href="[https://www.credly.com/badges/b829fb32-e21d-458c-a086-df16cdb74c30/public_url]"><b>CompTIA Security+ (SY0-701)</b></a>
