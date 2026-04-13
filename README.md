@@ -1,4 +1,4 @@
-<h1>Hi, I'm Blessed! <br/><a href="https://github.com/joshmadakor1">IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Blessed! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
