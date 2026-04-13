@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/isaca/C00000" width="40" height="40" alt="ISACA" />
+      <img src="https://cdn.simpleicons.org/isaca/C00000" width="40" height="40" alt="ISACA Logo" />
     </td>
     <td>
       <a href="[URL]"><b>Information Systems Auditing, Controls and Assurance (ISACA)</b></a>
