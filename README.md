@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center" width="70">
-      <img src="https://cdn.simpleicons.org/cisco/005A9C" width="40" alt="Cisco"/>
+      <img src="https://cdn.simpleicons.org/cilium/0073B7" width="40" height="40" alt="Cilium Logo" />
     </td>
     <td>
       <a href="[URL]"><b>CCNA: Introduction to Networks</b></a>
